@@ -1,5 +1,6 @@
 import piggy from '../porco.png';
 import React from 'react';
+import Hogs from '../porkers_data'
 
 const Nav = () => {
   return (
